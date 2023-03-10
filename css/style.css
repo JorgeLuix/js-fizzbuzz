@@ -1,0 +1,23 @@
+.box{
+    width: 100%;
+    height: 100vh;
+
+}
+#gridd{
+ width: 900px;
+height: 900px;
+background-color: blue;
+
+}
+.squaresmall{
+    width: 90px;
+    height: 90px;
+    padding: 5px;
+
+}
+.contenuto{
+    background-color: blanchedalmond;
+    color: brown;
+    width: 100%;
+    height: 100%;
+}
