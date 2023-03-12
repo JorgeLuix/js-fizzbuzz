@@ -25,7 +25,7 @@ for (let square = 1; square <= totalBox; square++) {
      gridd.innerHTML += 
      `<div class="squaresmall ">
              <div class="contenuto d-flex justify-content-center 
-                align-items-center  ${colorbzz} ${colorfzz} ${colorfbuzz}">
+                align-items-center rounded-2  ${colorbzz} ${colorfzz} ${colorfbuzz}">
                 ${testo}
             </div>
         </div>`;
